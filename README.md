@@ -1,4 +1,4 @@
 dev-env
 =======
 
-Contains configuration files for development environment.
+Contains configuration files for my development environment.
